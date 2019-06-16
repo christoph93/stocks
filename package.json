@@ -1,0 +1,26 @@
+{
+  "name": "stocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "latest",
+    "aws-sdk": "latest",
+    "express": "latest",
+    "body-parser": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christoph93/stocks.git"
+  },
+  "author": "Christoph Califice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christoph93/stocks/issues"
+  },
+  "homepage": "https://github.com/christoph93/stocks#readme"
+}
